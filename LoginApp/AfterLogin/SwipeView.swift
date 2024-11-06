@@ -10,7 +10,7 @@ struct SwipeView: View {
                 .tabItem {
                     Image(systemName: "magnifyingglass")
                 }
-            
+            // something test
             ChatPageView()
                 .tabItem {
                     Image(systemName: "bubble.fill")
