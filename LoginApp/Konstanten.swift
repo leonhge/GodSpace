@@ -10,6 +10,6 @@ class EigeneTestDaten {
     
     // Benutzer Login
     let loginPassword = "beispiel"
-    let loginUsername = "Irgendetwas"
+    let loginUsername = "irgendetwas"
     
 }
